@@ -1,0 +1,53 @@
+
+ #disney {
+     width: 100%;
+ }
+.principal{
+    background: rgb(224, 183, 71);
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado{
+    text-align: center;
+ }
+p
+ {
+    text-align: center;
+    
+ }  
+
+ #missao{
+    font-size: 20px;
+ }
+
+ <!--tags-->
+ em strong{
+     color: red;
+ }
+
+
+ .itens{
+     font-size: italic;
+ }
+
+ .beneficios{
+     background: write;
+     padding: 20px;
+     
+ }
+  
+ ul{
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+
+ }
+
+ <!--marcaçãodeclasse-->
+
+ .imagembeneficios{
+    width: 50%;
+ }
